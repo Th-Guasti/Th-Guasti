@@ -6,9 +6,9 @@
 <img align="right" alt="Thales-pic" height="150" src="https://cdn.discordapp.com/attachments/905507717249122324/1090994598089867305/IMG-20230327-WA0010.jpg">
 
 <div>
- <p>Tenho 20 anos. Amo área de tecnologia desde muito novo, é a minha área. Estou no 3° Período de Tecnologia em Sistemas para Internet no IFES Santa Teresa.</p>
+ <p>Tenho 21 anos. Amo área de tecnologia desde muito novo, é a minha área. Estou no 5° Período de Tecnologia em Sistemas para Internet no IFES Santa Teresa.</p>
  <p>- 💻 Procuro qualquer oportunidade de entrar na área de programação;</p>
- <p>- 📍 Estudando JavaScript, Css, Banco de dados, Php e React;</p>
+ <p>- 📍 JavaScript e Typescript, Html e Css, MySQL, Php, React, Flutter, Node.js;</p>
  <p>- 📞 Entre em contato comigo por:</p>
  <p>• 📧 Email: th.guasti@gmail.com</p>
  <p>• 📱 Celular: (27)996273669</p>
