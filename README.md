@@ -3,7 +3,7 @@
 
   
   ## BIO
-<img align="right" alt="Thales-pic" height="150" src="https://cdn.discordapp.com/attachments/905507717249122324/1090994598089867305/IMG-20230327-WA0010.jpg">
+<img align="right" alt="Thales-pic" height="150" src="https://cdn.discordapp.com/attachments/905507717249122324/1242189407977734155/E42D2506-B558-46BA-8DED-BA6DE1AB41C9.jpg?ex=664cee89&is=664b9d09&hm=1cb1f854434f251ae7dde3e70d444063329c9f8fbc1ceaf209c1ea1179a61c35&">
 
 <div>
  <p>Tenho 21 anos. Amo área de tecnologia desde muito novo, é a minha área. Estou no 5° Período de Tecnologia em Sistemas para Internet no IFES Santa Teresa.</p>
