@@ -7,7 +7,7 @@
 <div>
  <p>Tenho 21 anos. Amo área de tecnologia desde muito novo, é a minha área. Estou no 5° Período de Tecnologia em Sistemas para Internet no IFES Santa Teresa.</p>
  <p>- 💻 Em busca da primeira vaga para desenvolvedor front-end ou flutter!</p>
- <p>- 📍 JavaScript e Typescript, Html e Css, MySQL, Php, React, Flutter, Node.js;</p>
+ <p>- 📍 JavaScript, Html e Css, React, Figma, Flutter;</p>
  <p>- 📞 Entre em contato comigo por:</p>
  <p>• 📧 Email: th.guasti@gmail.com</p>
  <p>• 📱 Celular: (27)996273669</p>
