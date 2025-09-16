@@ -1,10 +1,8 @@
 ### Eai! Meu nome é Thales de Souza Guasti, mas pode me chamar de Th.
- 
-
-  
+   
   ## BIO
   
-<div>
+<div align="start">
  <p>Tenho 22 anos. Amo área de tecnologia desde muito novo, é a minha área. Formado em Tecnologia em Sistemas para Internet no IFES Santa Teresa.</p>
  <p>- 💻 Analista de Sistemas na Laticínios Fiore;</p>
  <p>- 📍 Desenvolvedor full-stack;</p>
@@ -15,18 +13,17 @@
 
 <div align="center">
   <a href="https://github.com/Th-Guasti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Th-Guasti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Guasti&layout=compact&langs_count=7&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Th-Guasti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Guasti&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center"><br>
-  <img alt="Thales-VsCode" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Thales-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img alt="Thales-CSS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img alt="Thales-Js" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="Thales-React" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
-  <img alt="Thales-Figma" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img alt="Thales-Flutter" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
+  <img alt="Thales-Angular" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg"> 
+  <img alt="Thales-Nodejs" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img alt="Thales-React" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
+  <img alt="Thales-Flutter" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
+  <img alt="Thales-Figma" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img alt="Thales-Sql" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />      
 
 </div>
  
