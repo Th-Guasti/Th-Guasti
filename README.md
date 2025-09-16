@@ -34,8 +34,8 @@
 
 #
 
-<div align="center" width="100%">
+<div align="center">
    <a href="https://github.com/Th-Guasti">
-   <img height="253em" src="https://github-readme-stats.vercel.app/api?username=Th-Guasti&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=FFFFFF&bg_color=1e1e1e&title_color=FFFFFF&icon_color=58a6ff&hide_border=true"/>
-   <img height="253em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Guasti&layout=compact&langs_count=7&theme=dark&text_color=FFFFFF&bg_color=1e1e1e&title_color=FFFFFF&hide_border=true"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Th-Guasti&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=FFFFFF&bg_color=1e1e1e&title_color=FFFFFF&icon_color=58a6ff&hide_border=true"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Guasti&layout=compact&langs_count=7&theme=dark&text_color=FFFFFF&bg_color=1e1e1e&title_color=FFFFFF&hide_border=true"/>
 </div>
