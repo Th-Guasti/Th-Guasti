@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" width="100%" height="220" alt="Banner" src="https://github.com/user-attachments/assets/d5cd6a8c-4d97-4a2b-8e51-975f3d4d543f" />
+<img width="2048" height="500" alt="banner_thales" src="https://github.com/user-attachments/assets/47e0d75d-5b18-4d97-948b-248d5120bbbc" />
 
 #
 
