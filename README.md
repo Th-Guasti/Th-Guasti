@@ -50,9 +50,9 @@ Desenvolvo sistemas internos que conectam operações e sistemas corporativos (S
 
 ## <img src="https://api.iconify.design/lucide/star.svg?color=%2358a6ff" height="24" align="absmiddle" alt="" /> Projeto em destaque
 
-### [Escrithorius: escritório virtual para o Claude Code](https://github.com/Th-Guasti/escrithorius)
+### [Escrithorius: escritório virtual para o Claude Code](https://github.com/thalesguasti/escrithorius)
 
-[![Escrithorius](assets/escrithorius-capa.png)](https://github.com/Th-Guasti/escrithorius)
+[![Escrithorius](assets/escrithorius-capa.png)](https://github.com/thalesguasti/escrithorius)
 
 App para Windows que mostra o Claude Code trabalhando, como um escritório em pixel art: cada projeto vira uma sala e cada agente vira uma pessoa, que corre para a mesa quando é chamada e vai ao café quando termina.
 
@@ -60,7 +60,7 @@ App para Windows que mostra o Claude Code trabalhando, como um escritório em pi
 - 100% local e só leitura, com segredos mascarados antes de aparecer na tela
 - Feito com Electron e JavaScript puro, com mais de 190 testes automatizados
 
-<img src="https://api.iconify.design/lucide/arrow-right.svg?color=%2358a6ff" height="18" align="absmiddle" alt="" /> [Código](https://github.com/Th-Guasti/escrithorius) · [Baixar o .exe](https://github.com/Th-Guasti/escrithorius/releases/latest)
+<img src="https://api.iconify.design/lucide/arrow-right.svg?color=%2358a6ff" height="18" align="absmiddle" alt="" /> [Código](https://github.com/thalesguasti/escrithorius) · [Baixar o .exe](https://github.com/thalesguasti/escrithorius/releases/latest)
 
 #
 
@@ -68,8 +68,8 @@ App para Windows que mostra o Claude Code trabalhando, como um escritório em pi
 
 | Projeto | O que é | Tecnologias |
 | --- | --- | --- |
-| [Controle de gastos com ingredientes](https://github.com/Th-Guasti/projeto-calculo-de-gastos-com-ingredientes) | Sistema para controlar ingredientes, usos e estoque | Node.js, SQLite |
-| [Simulador de balança Toledo (P06)](https://github.com/Th-Guasti/simulador-balanca-toleto-p06-csharp) | Simulador de balança eletrônica | C# |
+| [Controle de gastos com ingredientes](https://github.com/thalesguasti/projeto-calculo-de-gastos-com-ingredientes) | Sistema para controlar ingredientes, usos e estoque | Node.js, SQLite |
+| [Simulador de balança Toledo (P06)](https://github.com/thalesguasti/simulador-balanca-toleto-p06-csharp) | Simulador de balança eletrônica | C# |
 | Fisgados | Aplicativo mobile que combina diversão com espiritualidade (front-end de algumas telas) | Flutter |
 
 Também trabalhei em sistemas de empresas (como o Balanciore, na Laticínios Fiore, e integrações no Grupo Estel). Esses são projetos de empresa, sem código público.
@@ -103,7 +103,7 @@ Também trabalhei em sistemas de empresas (como o Balanciore, na Laticínios Fio
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Th-Guasti/Th-Guasti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Th-Guasti/Th-Guasti/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Th-Guasti/Th-Guasti/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thalesguasti/Th-Guasti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thalesguasti/Th-Guasti/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thalesguasti/Th-Guasti/output/github-contribution-grid-snake.svg">
 </picture>
