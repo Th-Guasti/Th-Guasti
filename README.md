@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img width="2048" height="500" alt="banner_github" src="https://github.com/user-attachments/assets/e6927b7d-00b6-480f-8acd-0db036ba8817" />
+<img width="100%" alt="Thales de Souza Guasti, Desenvolvedor de Sistemas" src="assets/banner.png" />
 
 #
 
@@ -95,7 +95,7 @@ Também trabalhei em sistemas de empresas (como o Balanciore, na Laticínios Fio
 ### 🤝 Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/thales-de-souza-guasti-272722290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:thaslesouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:thales.guasti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/thales.guasti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 #
