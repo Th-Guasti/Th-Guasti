@@ -8,24 +8,24 @@
 
 #
 
-## Olá, eu sou o Thales 👋
+## Olá, eu sou o Thales
 
 **Desenvolvedor de Sistemas** | PHP, Node.js e Python | Integrações com HCM Senior, GED e APIs externas
 
 Desenvolvo sistemas internos que conectam operações e sistemas corporativos (Senior ERP, GED) via API, do levantamento de requisito até a entrega em produção. Também mantenho e crio automações em Python e APIs em Node.
 
-📍 Aracruz, Espírito Santo, Brasil
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%2358a6ff" height="18" align="absmiddle" alt="" /> Aracruz, Espírito Santo, Brasil
 
-- 💼 **Hoje:** Assistente de TI no **Grupo Estel**, desenvolvendo integrações com web services do Senior ERP e GED, e um sistema de mobilização de colaboradores integrado a uma API externa
-- 👨‍🏫 **Também:** professor de TI (Rede de Computadores) no Curso Técnico Ciclos
-- 🎓 **Estudando:** pós-graduação em Desenvolvimento Full Stack (Descomplica), com foco em Java
-- 🚀 **Projeto novo:** o [Escrithorius](#-projeto-em-destaque), um escritório virtual para ver o Claude Code trabalhando
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%2358a6ff" height="18" align="absmiddle" alt="" /> **Hoje:** Assistente de TI no **Grupo Estel**, desenvolvendo integrações com web services do Senior ERP e GED, e um sistema de mobilização de colaboradores integrado a uma API externa
+- <img src="https://api.iconify.design/lucide/presentation.svg?color=%2358a6ff" height="18" align="absmiddle" alt="" /> **Também:** professor de TI (Rede de Computadores) no Curso Técnico Ciclos
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2358a6ff" height="18" align="absmiddle" alt="" /> **Estudando:** pós-graduação em Desenvolvimento Full Stack (Descomplica), com foco em Java
+- <img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" height="18" align="absmiddle" alt="" /> **Projeto novo:** o [Escrithorius](#projeto-destaque), um escritório virtual para ver o Claude Code trabalhando
 
 #
 
 <img align="right" height="190px" alt="imagem" src="https://github.com/user-attachments/assets/016201f9-6e11-4613-8a3d-c4efa76e0b83" />
 
-### 🛠️ Stack
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%2358a6ff" height="24" align="absmiddle" alt="" /> Stack
 
 <div align="left">
    <img alt="PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -46,7 +46,9 @@ Desenvolvo sistemas internos que conectam operações e sistemas corporativos (S
 
 #
 
-## ⭐ Projeto em destaque
+<a id="projeto-destaque"></a>
+
+## <img src="https://api.iconify.design/lucide/star.svg?color=%2358a6ff" height="24" align="absmiddle" alt="" /> Projeto em destaque
 
 ### [Escrithorius: escritório virtual para o Claude Code](https://github.com/Th-Guasti/escrithorius)
 
@@ -58,11 +60,11 @@ App para Windows que mostra o Claude Code trabalhando, como um escritório em pi
 - 100% local e só leitura, com segredos mascarados antes de aparecer na tela
 - Feito com Electron e JavaScript puro, com mais de 190 testes automatizados
 
-👉 [Código](https://github.com/Th-Guasti/escrithorius) · [Baixar o .exe](https://github.com/Th-Guasti/escrithorius/releases/latest)
+<img src="https://api.iconify.design/lucide/arrow-right.svg?color=%2358a6ff" height="18" align="absmiddle" alt="" /> [Código](https://github.com/Th-Guasti/escrithorius) · [Baixar o .exe](https://github.com/Th-Guasti/escrithorius/releases/latest)
 
 #
 
-## 📂 Outros projetos
+## <img src="https://api.iconify.design/lucide/folder-open.svg?color=%2358a6ff" height="24" align="absmiddle" alt="" /> Outros projetos
 
 | Projeto | O que é | Tecnologias |
 | --- | --- | --- |
@@ -74,7 +76,7 @@ Também trabalhei em sistemas de empresas (como o Balanciore, na Laticínios Fio
 
 #
 
-## 💼 Experiência
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%2358a6ff" height="24" align="absmiddle" alt="" /> Experiência
 
 - **Professor de TI** · Curso Técnico Ciclos (autônomo) · out/2026 até hoje
 - **Assistente de TI** · Grupo Estel · fev/2026 até hoje: integrações com Senior ERP e GED via web services, sistema de mobilização de colaboradores integrado a API externa
@@ -82,7 +84,7 @@ Também trabalhei em sistemas de empresas (como o Balanciore, na Laticínios Fio
 - **Estagiário de TI** · IFES Santa Teresa · set/2023 a fev/2025: suporte e manutenção de laboratórios, atendimento de TI nos setores do campus
 - **Desenvolvimento Flutter** · Desbravalink · jun/2024 a ago/2024: front-end de telas do app Fisgados (aprendizado voluntário)
 
-## 🎓 Formação e certificações
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2358a6ff" height="24" align="absmiddle" alt="" /> Formação e certificações
 
 - **Tecnologia em Sistemas para Internet** · IFES Santa Teresa · 2022 a 2025
 - **Pós-graduação em Desenvolvimento Full Stack** · Descomplica · 2026 a 2027 (cursando)
@@ -92,19 +94,11 @@ Também trabalhei em sistemas de empresas (como o Balanciore, na Laticínios Fio
 
 #
 
-### 🤝 Conecte-se comigo
+### <img src="https://api.iconify.design/lucide/handshake.svg?color=%2358a6ff" height="24" align="absmiddle" alt="" /> Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/thales-de-souza-guasti-272722290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:thales.guasti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/thales.guasti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
-#
-
-<div align="center">
-   <a href="https://github.com/Th-Guasti">
-   <img height="206em" src="https://github-readme-stats.vercel.app/api?username=Th-Guasti&show_icons=true&theme=dark&include_all_commits=true&count_private=true&text_color=FFFFFF&bg_color=1e1e1e&title_color=FFFFFF&icon_color=58a6ff&hide_border=true"/>
-   <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th-Guasti&layout=compact&langs_count=7&theme=dark&text_color=FFFFFF&bg_color=1e1e1e&title_color=FFFFFF&hide_border=true"/>
-</div>
 
 #
 
